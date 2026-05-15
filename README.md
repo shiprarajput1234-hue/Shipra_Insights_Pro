@@ -75,6 +75,6 @@ How to Use This Repository
    Connect With Me
       mail: Shiprarajput1234@gmail.com  
   LinkedIn: https://linkedin.com/in/shiprarajput237424383  
-   GitHub: https://github.com/shiprarajput1234-hue  
+   GitHub: https://github.com/shiprarajput1234-hue/Shipra_Insights_Pro
 
  If you like this repository, don’t forget to give it a star!
